@@ -6,3 +6,5 @@ pypdf
 python-dotenv
 faiss-cpu
 sentence-transformers
+langchain-google-genai
+pymupdf
