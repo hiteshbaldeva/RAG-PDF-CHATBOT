@@ -8,3 +8,5 @@ faiss-cpu
 sentence-transformers
 langchain-google-genai
 pymupdf
+torch
+torchvision
